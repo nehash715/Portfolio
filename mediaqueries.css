@@ -12,15 +12,7 @@
   }
 
 
-  #about-sec{
-    margin: 0;
-  }
-  #profile-sec{
-    height: 280px;
-  }
-  #project-sec{
-    margin-top: 0;
-  }
+  
 }
 
 @media screen and (max-width: 1200px) {
